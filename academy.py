@@ -9,3 +9,5 @@ print(f'B = {b}')
 print(f'C = {c}')
 print(f'D = {d}')
 print(f'E = {e}')
+
+#Essa é uma alteração
